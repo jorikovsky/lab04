@@ -1,0 +1,3 @@
+/root/jorikovsky/workspace/projects/lab03/formatter_lib/build1/CMakeFiles/rebuild_cache.dir
+/root/jorikovsky/workspace/projects/lab03/formatter_lib/build1/CMakeFiles/formatter.dir
+/root/jorikovsky/workspace/projects/lab03/formatter_lib/build1/CMakeFiles/edit_cache.dir
